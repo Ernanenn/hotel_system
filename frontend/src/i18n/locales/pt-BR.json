@@ -1,0 +1,64 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "create": "Criar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "close": "Fechar"
+  },
+  "auth": {
+    "login": "Entrar",
+    "register": "Cadastrar",
+    "logout": "Sair",
+    "email": "Email",
+    "password": "Senha",
+    "firstName": "Nome",
+    "lastName": "Sobrenome",
+    "phone": "Telefone",
+    "alreadyHaveAccount": "Já tem uma conta?",
+    "noAccount": "Não tem uma conta?",
+    "loginError": "Erro ao fazer login",
+    "registerError": "Erro ao cadastrar"
+  },
+  "rooms": {
+    "title": "Quartos Disponíveis",
+    "availableRooms": "Quartos Disponíveis",
+    "roomDetails": "Detalhes do Quarto",
+    "pricePerNight": "por noite",
+    "maxOccupancy": "Até {{count}} pessoas",
+    "noRooms": "Nenhum quarto encontrado",
+    "viewDetails": "Ver Detalhes",
+    "bookNow": "Reservar Agora"
+  },
+  "reservation": {
+    "title": "Criar Reserva",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guestNotes": "Observações (opcional)",
+    "createReservation": "Criar Reserva",
+    "myReservations": "Minhas Reservas",
+    "noReservations": "Você ainda não tem reservas"
+  },
+  "profile": {
+    "title": "Meu Perfil",
+    "personalData": "Dados Pessoais",
+    "preferences": "Preferências",
+    "reservationsHistory": "Histórico de Reservas",
+    "updateProfile": "Atualizar Perfil",
+    "profileUpdated": "Perfil atualizado com sucesso"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "reports": "Relatórios",
+    "rooms": "Gerenciar Quartos",
+    "reservations": "Reservas",
+    "payments": "Pagamentos"
+  }
+}
+

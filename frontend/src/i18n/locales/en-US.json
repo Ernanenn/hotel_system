@@ -1,0 +1,64 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "close": "Close"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone",
+    "alreadyHaveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "loginError": "Login error",
+    "registerError": "Registration error"
+  },
+  "rooms": {
+    "title": "Available Rooms",
+    "availableRooms": "Available Rooms",
+    "roomDetails": "Room Details",
+    "pricePerNight": "per night",
+    "maxOccupancy": "Up to {{count}} people",
+    "noRooms": "No rooms found",
+    "viewDetails": "View Details",
+    "bookNow": "Book Now"
+  },
+  "reservation": {
+    "title": "Create Reservation",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guestNotes": "Notes (optional)",
+    "createReservation": "Create Reservation",
+    "myReservations": "My Reservations",
+    "noReservations": "You don't have any reservations yet"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalData": "Personal Data",
+    "preferences": "Preferences",
+    "reservationsHistory": "Reservations History",
+    "updateProfile": "Update Profile",
+    "profileUpdated": "Profile updated successfully"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "reports": "Reports",
+    "rooms": "Manage Rooms",
+    "reservations": "Reservations",
+    "payments": "Payments"
+  }
+}
+

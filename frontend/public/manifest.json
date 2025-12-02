@@ -1,0 +1,43 @@
+{
+  "name": "Sistema de Gestão de Hotel",
+  "short_name": "Hotel App",
+  "description": "Sistema completo de gestão de hotel com reservas, pagamentos e check-in digital",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3182ce",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "business"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Minhas Reservas",
+      "short_name": "Reservas",
+      "description": "Ver minhas reservas",
+      "url": "/my-reservations",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Quartos",
+      "short_name": "Quartos",
+      "description": "Ver quartos disponíveis",
+      "url": "/rooms",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
+
